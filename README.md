@@ -2,7 +2,7 @@
 
 Get random pairing between members of stylesage
 
-# how to work
+# How to work
 
 1. Provide name and team in the people CSV like follow
 ```csv
